@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamSom
-- 👀 I’m interested in Automation and Cloud platform.
-- 🌱 I’m currently working in Tata Consultancy Services.
-- 💞️ I’m looking to collaborate on Automation and Development Projects.
+- 👀 I’m interested in Data Engineering, Automation and Cloud platform.
+- 🌱 I’m currently working with Deloitte LLP.
+- 💞️ I’m looking to collaborate on Data Science\Engineering Projects.
 
 <!---
 ShubhamSom/ShubhamSom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
